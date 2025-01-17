@@ -1,0 +1,415 @@
+{
+  "button": {
+    "learnMore": "Daha Fazlası"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Kurumsal",
+    "services": "Çözümlerimiz",
+    "blog": "Blog",
+    "contact": "İletişim",
+    "changeLanguage": "Dil Değiştir",
+    "usefulLinks": "Site Haritası"
+  },
+  "language": {
+    "tr": "Türkçe",
+    "en": "English"
+  },
+  "hero": {
+    "title": "MVM BUSINESS DEVELOPMENT OFFICE",
+    "subtitle": "Girişimleriniz için profesyonel destek alın.",
+    "button": "Hemen Başlayın"
+  },
+  "why": {
+    "title": "Neden MVM?",
+    "subtitle": "MVM, işletmenizin büyümesi için ihtiyacınız olan tüm hizmetleri sunar.",
+    "reason1": {
+      "title": "Güçlü Deneyim",
+      "subtitle": "Yıllara dayanan birikim",
+      "description": "Uzman ekibimiz, yılların getirdiği deneyim ve geniş sektör bilgisi ile müşterilerimize en iyi çözümleri sunmaktadır. Her projede stratejik yaklaşımımızla fark yaratıyoruz."
+    },
+    "reason2": {
+      "title": "Yenilikçi Yaklaşım",
+      "subtitle": "Teknoloji ve inovasyon odaklı çözümler",
+      "description": "İş geliştirme süreçlerimizde en yeni teknolojileri ve inovatif yaklaşımları kullanarak işletmelerin sürdürülebilir büyümesine katkı sağlıyoruz."
+    },
+    "reason3": {
+      "title": "Müşteri Odaklı Hizmet",
+      "subtitle": "İş ortağınız olarak yanınızdayız",
+      "description": "Her müşterimize özel çözümler üretiyor, ihtiyaç ve hedeflerine göre hizmet sunuyoruz. Başarıyı, iş ortaklarımızın memnuniyetinde arıyoruz."
+    },
+    "reason4": {
+      "title": "Sonuç Odaklı Çözümler",
+      "subtitle": "Başarı için somut adımlar",
+      "description": "Yalnızca planlama değil, aynı zamanda uygulanabilir çözümler sunarak projelerinizi hedefe ulaştırıyoruz. Ölçülebilir başarılarla uzun vadeli değer yaratıyoruz."
+    }
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "subtitle": "MVM Business Development Office olarak; yenilikçi çözümler ve stratejik iş geliştirme süreçlerini merkeze alarak, uzmanlık alanlarımızda değer yaratan bir iş ortağı olarak kendimizi tanımlıyoruz.",
+    "service1": {
+      "title": "Stratejik İş Geliştirme",
+      "description": "Stratejik hedeflerin belirlenmesi, pazar araştırması ve yeni iş fırsatlarının keşfedilmesi konusunda danışmanlık sağlıyoruz.",
+      "details": "İşletmenizin uzun vadeli büyüme stratejilerini belirlemek ve pazardaki konumunuzu güçlendirmek için kapsamlı analizler yapıyoruz. Müşteri ihtiyaçlarına yönelik en uygun iş geliştirme modellerini oluşturuyor ve rekabet avantajınızı artırmak için rehberlik sağlıyoruz.",
+      "features": {
+        "title": "Hizmetlerimiz",
+        "feature1": "İş modelinizin detaylı analizi ve değerlendirilmesi",
+        "feature2": "Sektör trendleri ve rekabet analizleri",
+        "feature3": "Pazar araştırmaları ve hedef kitle belirleme",
+        "feature4": "Yeni iş fırsatlarının belirlenmesi",
+        "feature5": "İş büyütme stratejileri ve uygulama planları",
+        "feature6": "Veri odaklı karar mekanizmalarının oluşturulması"
+      },
+      "benefits": {
+        "title": "Faydaları",
+        "benefit1": "Rakiplerinizden bir adım öne geçin ve pazar liderliğini hedefleyin.",
+        "benefit2": "İşletmenizin sürdürülebilir büyümesini sağlayacak stratejiler geliştirin.",
+        "benefit3": "Yatırım kararlarını daha bilinçli bir şekilde alın.",
+        "benefit4": "Müşteri taleplerine uygun ürün ve hizmetler sunarak satışları artırın.",
+        "benefit5": "Operasyonel verimliliği artırarak maliyetleri düşürün."
+      },
+      "caseStudies": {
+        "title": "Örnek Çalışmalar",
+        "study1": {
+          "title": "B2B Pazarda Yeni İş Modelleri ile %30 Büyüme",
+          "description": "Müşterimiz, geleneksel satış modelinden çıkarak veri odaklı iş geliştirme yöntemleri ile %30 büyüme sağladı."
+        },
+        "study2": {
+          "title": "Girişimcilere Özel Pazar Analizleri ile Stratejik Planlama",
+          "description": "Start-up müşterilerimize sunduğumuz özel pazar analizleri ile ilk yıl içinde %50 müşteri büyümesi elde edildi."
+        }
+      },
+      "faq": {
+        "title": "Sıkça Sorulan Sorular",
+        "q1": {
+          "question": "Stratejik iş geliştirme süreci ne kadar sürer?",
+          "answer": "Bu süreç işletmenin ihtiyaçlarına göre değişkenlik göstermekle birlikte, genellikle 3 ila 6 ay arasında sürer."
+        },
+        "q2": {
+          "question": "Şirketimiz için hangi stratejinin uygun olduğunu nasıl belirliyorsunuz?",
+          "answer": "Detaylı analizler, rakip araştırmaları ve pazar dinamikleri incelenerek size en uygun stratejiler önerilir."
+        }
+      }
+    },
+    "service2": {
+      "title": "Proje Yönetimi Danışmanlığı",
+      "description": "Projelerinizin başarılı bir şekilde planlanması, yönetilmesi ve tamamlanması için kapsamlı danışmanlık hizmetleri sunuyoruz.",
+      "details": "İşletmenizin projelerini zamanında ve bütçe dahilinde tamamlamasını sağlamak için etkili proje yönetimi stratejileri geliştiriyoruz. Risk yönetimi, kaynak planlaması ve süreç optimizasyonu konularında rehberlik ederek projelerinizin verimliliğini artırıyoruz.",
+      "features": {
+        "title": "Hizmetlerimiz",
+        "feature1": "Proje planlama ve yol haritası oluşturma",
+        "feature2": "Kaynak yönetimi ve görev dağılımı",
+        "feature3": "Risk yönetimi ve olası sorunlara karşı önlemler",
+        "feature4": "Süreç optimizasyonu ve verimlilik artırma",
+        "feature5": "Agile, Scrum, Kanban gibi proje yönetim metodolojilerinin uygulanması",
+        "feature6": "Performans ölçümü ve raporlama"
+      },
+      "benefits": {
+        "title": "Faydaları",
+        "benefit1": "Projelerinizi zamanında ve bütçe dahilinde tamamlayarak maliyetleri düşürün.",
+        "benefit2": "Kaynaklarınızı daha etkin kullanarak verimliliği artırın.",
+        "benefit3": "Riskleri önceden belirleyerek olası aksaklıkları minimize edin.",
+        "benefit4": "Ekip koordinasyonunu ve iş birliğini güçlendirin.",
+        "benefit5": "İş süreçlerinizi optimize ederek müşteri memnuniyetini artırın."
+      },
+      "caseStudies": {
+        "title": "Örnek Çalışmalar",
+        "study1": {
+          "title": "Yazılım Projesinde Agile Yöntemi ile %40 Verimlilik Artışı",
+          "description": "Müşterimiz, proje yönetimi süreçlerine Agile metodolojisini entegre ederek geliştirme sürecini hızlandırdı ve %40 daha verimli hale getirdi."
+        },
+        "study2": {
+          "title": "Kaynak Planlaması ile Zamanında Teslim Edilen İnşaat Projesi",
+          "description": "İnşaat sektöründeki müşterimiz, kapsamlı kaynak planlaması sayesinde projesini planlanan sürede ve bütçede tamamladı."
+        }
+      },
+      "faq": {
+        "title": "Sıkça Sorulan Sorular",
+        "q1": {
+          "question": "Proje yönetimi danışmanlığı süreci nasıl işler?",
+          "answer": "İlk aşamada mevcut süreçlerinizi analiz ediyor, ardından size özel stratejiler geliştirerek uygulama aşamasına geçiyoruz."
+        },
+        "q2": {
+          "question": "Hangi proje yönetim metodolojisini kullanıyorsunuz?",
+          "answer": "İhtiyacınıza uygun olarak Agile, Scrum, Kanban, Waterfall gibi çeşitli metodolojilerden en uygun olanını öneriyoruz."
+        }
+      }
+    },
+    "service3": {
+      "title": "İnovasyon ve Teknoloji Danışmanlığı",
+      "description": "İşletmenizin dijital dönüşümünü hızlandırmak ve rekabet avantajı sağlamak için inovasyon ve teknoloji danışmanlığı hizmetleri sunuyoruz.",
+      "details": "Yeni teknolojileri keşfetmenize, iş süreçlerinizi dijitalleştirmenize ve inovasyon odaklı çözümler geliştirmenize yardımcı oluyoruz. Veri analitiği, yapay zeka, otomasyon ve diğer ileri teknolojilerle işletmenizi geleceğe taşıyoruz.",
+      "features": {
+        "title": "Hizmetlerimiz",
+        "feature1": "Dijital dönüşüm stratejilerinin oluşturulması",
+        "feature2": "Yapay zeka ve makine öğrenimi uygulamaları",
+        "feature3": "Veri analitiği ve büyük veri çözümleri",
+        "feature4": "Blockchain, IoT ve diğer yeni nesil teknolojilerin entegrasyonu",
+        "feature5": "Siber güvenlik stratejileri ve risk analizi",
+        "feature6": "Otomasyon çözümleri ve iş süreçlerinin dijitalleştirilmesi"
+      },
+      "benefits": {
+        "title": "Faydaları",
+        "benefit1": "İş süreçlerinizi optimize ederek verimliliği artırın.",
+        "benefit2": "Dijitalleşme sayesinde maliyetleri düşürün ve rekabet avantajı elde edin.",
+        "benefit3": "Yapay zeka ve veri analitiği ile daha bilinçli iş kararları alın.",
+        "benefit4": "Yeni teknolojilerle müşteri deneyimini iyileştirin.",
+        "benefit5": "İnovatif çözümlerle pazardaki konumunuzu güçlendirin."
+      },
+      "caseStudies": {
+        "title": "Örnek Çalışmalar",
+        "study1": {
+          "title": "Makine Öğrenimi ile Üretim Süreçlerinde %35 Verimlilik Artışı",
+          "description": "Bir üretim şirketi, yapay zeka tabanlı analizlerle üretim süreçlerini optimize ederek verimliliğini %35 artırdı."
+        },
+        "study2": {
+          "title": "E-Ticaret Platformunda Veri Analitiği ile Satışların %50 Artışı",
+          "description": "E-ticaret müşterimiz, büyük veri analitiği kullanarak müşteri davranışlarını analiz etti ve satışlarını %50 artırdı."
+        }
+      },
+      "faq": {
+        "title": "Sıkça Sorulan Sorular",
+        "q1": {
+          "question": "İnovasyon ve teknoloji danışmanlığı kimler için uygundur?",
+          "answer": "KOBİ'lerden büyük ölçekli şirketlere kadar her işletme, dijital dönüşüm ve inovasyon süreçlerini hızlandırmak için bu hizmetten faydalanabilir."
+        },
+        "q2": {
+          "question": "Şirketimize uygun en iyi teknolojiyi nasıl belirliyorsunuz?",
+          "answer": "İşletmenizin ihtiyaçlarını analiz ederek, en uygun teknoloji ve dijital dönüşüm stratejilerini belirliyoruz."
+        }
+      }
+    },
+    "service4": {
+      "title": "Pazar ve Rekabet Analizi",
+      "description": "İşletmenizin pazardaki konumunu belirlemek, rakiplerinizi analiz etmek ve stratejik avantaj elde etmek için kapsamlı pazar ve rekabet analizi hizmetleri sunuyoruz.",
+      "details": "Pazar trendlerini ve rakiplerinizi detaylı bir şekilde analiz ederek iş stratejilerinizi optimize ediyoruz. Müşteri beklentilerini anlamanıza, fırsatları keşfetmenize ve pazarda sürdürülebilir bir rekabet avantajı elde etmenize yardımcı oluyoruz.",
+      "features": {
+        "title": "Hizmetlerimiz",
+        "feature1": "Pazar trendleri ve büyüme analizleri",
+        "feature2": "Rakiplerin güçlü ve zayıf yönlerinin belirlenmesi",
+        "feature3": "Hedef kitle ve müşteri segmentasyonu",
+        "feature4": "Fiyatlandırma stratejileri ve pazar konumlandırması",
+        "feature5": "SWOT, PESTEL ve Porter’ın Beş Kuvvet Analizi",
+        "feature6": "Stratejik yol haritası ve aksiyon planları"
+      },
+      "benefits": {
+        "title": "Faydaları",
+        "benefit1": "Pazardaki fırsatları daha iyi anlayarak stratejik kararlar alın.",
+        "benefit2": "Rakiplerinizin stratejilerini analiz ederek güçlü bir rekabet avantajı elde edin.",
+        "benefit3": "Hedef kitlenizi daha iyi tanıyarak müşteri memnuniyetini artırın.",
+        "benefit4": "Fiyatlandırma ve pazarlama stratejilerinizi optimize ederek kârlılığı artırın.",
+        "benefit5": "İşletmenizin uzun vadeli büyüme stratejilerini belirleyin."
+      },
+      "caseStudies": {
+        "title": "Örnek Çalışmalar",
+        "study1": {
+          "title": "Fiyatlandırma Stratejisi ile %20 Gelir Artışı",
+          "description": "Bir perakende müşterimiz, pazar analizi ile fiyatlandırma stratejisini optimize ederek %20 daha fazla gelir elde etti."
+        },
+        "study2": {
+          "title": "Rakip Analizi ile Yeni Pazar Fırsatlarının Keşfi",
+          "description": "Bir teknoloji firması, rakip analizleri sayesinde yeni pazarlara açılarak müşteri portföyünü genişletti."
+        }
+      },
+      "faq": {
+        "title": "Sıkça Sorulan Sorular",
+        "q1": {
+          "question": "Pazar ve rekabet analizi ne kadar sürede tamamlanır?",
+          "answer": "Analiz süresi sektörünüze ve hedeflerinize bağlı olarak değişmekle birlikte, genellikle 4 ila 8 hafta arasında tamamlanmaktadır."
+        },
+        "q2": {
+          "question": "Analiz sonucunda nasıl aksiyon alabiliriz?",
+          "answer": "Size sunduğumuz detaylı raporlar ve stratejik öneriler doğrultusunda iş planınızı optimize edebilir ve rekabet avantajınızı artırabilirsiniz."
+        }
+      }
+    },
+    "service5": {
+      "title": "Yatırım ve Ortaklık Yönetimi",
+      "description": "İşletmenizin büyümesi ve sürdürülebilir finansal başarısı için yatırım süreçlerini yönetiyor ve stratejik ortaklık fırsatları sunuyoruz.",
+      "details": "Şirketinizin finansal büyümesini desteklemek için yatırım stratejileri geliştiriyor, yatırımcılarla etkili iletişim kurmanıza yardımcı oluyoruz. Ayrıca, ortaklık yönetimi süreçlerini optimize ederek iş birliklerinden en yüksek verimi almanızı sağlıyoruz.",
+      "features": {
+        "title": "Hizmetlerimiz",
+        "feature1": "Yatırım stratejilerinin oluşturulması",
+        "feature2": "Potansiyel yatırımcılarla bağlantı kurulması",
+        "feature3": "Ortaklık modellerinin analizi ve yönetimi",
+        "feature4": "Şirket değerleme ve finansal analiz hizmetleri",
+        "feature5": "Hisse devri ve yatırım süreçlerinin takibi",
+        "feature6": "Müzakere ve sözleşme yönetimi"
+      },
+      "benefits": {
+        "title": "Faydaları",
+        "benefit1": "Doğru yatırım stratejileri ile işletmenizin büyümesini hızlandırın.",
+        "benefit2": "Güçlü ortaklıklar kurarak iş hacminizi genişletin.",
+        "benefit3": "Şirket değerlemenizi optimize ederek yatırım çekme şansınızı artırın.",
+        "benefit4": "Yatırımcı ilişkilerini profesyonelce yöneterek güven oluşturun.",
+        "benefit5": "Finansal süreçlerinizi daha verimli hale getirerek sürdürülebilir karlılık sağlayın."
+      },
+      "caseStudies": {
+        "title": "Örnek Çalışmalar",
+        "study1": {
+          "title": "Yatırımcı Bağlantıları ile %50 Sermaye Artışı",
+          "description": "Bir teknoloji girişimi, yatırımcılarla etkili bağlantılar kurarak %50 sermaye artışı sağladı ve büyüme sürecini hızlandırdı."
+        },
+        "study2": {
+          "title": "Stratejik Ortaklık ile Yeni Pazarlara Açılma",
+          "description": "Bir perakende şirketi, doğru ortaklık yönetimi stratejileri ile yurt dışına açılarak müşteri tabanını genişletti."
+        }
+      },
+      "faq": {
+        "title": "Sıkça Sorulan Sorular",
+        "q1": {
+          "question": "Yatırımcı bulma süreci ne kadar sürer?",
+          "answer": "Sektörünüze ve iş modelinize bağlı olarak değişmekle birlikte, genellikle 3 ila 6 ay arasında sürebilir."
+        },
+        "q2": {
+          "question": "Şirket değerlemesi nasıl yapılır?",
+          "answer": "Finansal performans, pazar konumu ve büyüme potansiyeli gibi faktörler analiz edilerek şirketinizin doğru değeri belirlenir."
+        }
+      }
+    },
+    "service6": {
+      "title": "Eğitim ve Mentorluk",
+      "description": "Bireylerin ve işletmelerin profesyonel gelişimlerini desteklemek için eğitim programları ve mentorluk hizmetleri sunuyoruz.",
+      "details": "Alanında uzman eğitmenlerimiz ve mentorlarımızla, çalışanlarınızın ve yöneticilerinizin yetkinliklerini artırarak iş dünyasında daha başarılı olmalarına yardımcı oluyoruz. Özelleştirilmiş eğitim içerikleriyle bireylerin ve ekiplerin kariyerlerini ileriye taşımalarını sağlıyoruz.",
+      "features": {
+        "title": "Hizmetlerimiz",
+        "feature1": "Liderlik ve yönetim becerileri eğitimleri",
+        "feature2": "İnovasyon ve yaratıcılık atölyeleri",
+        "feature3": "Teknik ve mesleki beceri geliştirme eğitimleri",
+        "feature4": "Girişimcilik ve iş geliştirme mentorluk programları",
+        "feature5": "Kariyer danışmanlığı ve bireysel gelişim destekleri",
+        "feature6": "Kurumsal eğitim programlarının tasarlanması ve uygulanması"
+      },
+      "benefits": {
+        "title": "Faydaları",
+        "benefit1": "Çalışanlarınızın yetkinliklerini artırarak iş performanslarını iyileştirin.",
+        "benefit2": "Kurum içi inovasyonu teşvik ederek rekabet avantajı elde edin.",
+        "benefit3": "Liderlik ve yönetim becerileri geliştirerek ekiplerinizi daha etkili yönetin.",
+        "benefit4": "Teknolojik ve sektörel değişimlere hızla adapte olun.",
+        "benefit5": "Bireylerin ve ekiplerin motivasyonunu artırarak iş verimliliğini yükseltin."
+      },
+      "caseStudies": {
+        "title": "Örnek Çalışmalar",
+        "study1": {
+          "title": "Liderlik Eğitimi ile %40 Verimlilik Artışı",
+          "description": "Bir şirket, yöneticilerine yönelik liderlik eğitimleri düzenleyerek ekip içi iletişimi ve verimliliği %40 oranında artırdı."
+        },
+        "study2": {
+          "title": "Teknik Eğitim Programı ile %60 Daha Yüksek Yetkinlik Seviyesi",
+          "description": "Bir teknoloji firması, çalışanlarına yönelik teknik eğitimler sağlayarak yetkinlik seviyelerini %60 oranında yükseltti."
+        }
+      },
+      "faq": {
+        "title": "Sıkça Sorulan Sorular",
+        "q1": {
+          "question": "Eğitim ve mentorluk programları nasıl uygulanıyor?",
+          "answer": "Online veya yüz yüze eğitim seçenekleriyle, ihtiyacınıza uygun şekilde planlanmaktadır."
+        },
+        "q2": {
+          "question": "Kurumsal eğitim programları nasıl tasarlanıyor?",
+          "answer": "İşletmenizin ihtiyaçları analiz edilerek, çalışanlarınıza özel içerikler hazırlanır ve uygulanır."
+        }
+      }
+    }
+  },
+  "callToAction": {
+    "title": "İşletmenizi büyütmek için hemen başlayın!",
+    "subtitle": "İşletmenizin büyümesini hızlandırmak ve yenilikçi çözümlerle rekabet avantajı sağlamak için yanınızdayız. İş ortaklarımızla birlikte stratejik hedeflere ulaşmak için etkili çözümler sunuyoruz.",
+    "button": "Hemen İletişim Kur"
+  },
+  "about": {
+    "title": "Kurumsal",
+    "subtitles": {
+      "title1": {
+        "title": "Hakkımızda",
+        "subtitle": "“Yenilikçi Çözümlerle İşinizi Büyütüyoruz”",
+        "description": "MVM Business Development Office, işletmelerin sürdürülebilir büyümesini sağlamak amacıyla stratejik iş geliştirme, inovasyon yönetimi ve teknoloji entegrasyonu alanlarında uzmanlaşmış bir danışmanlık firmasıdır. Deneyimli ekibimizle, iş ortaklarımıza değer katan çözümler sunuyor ve onların rekabet avantajını artırmalarına yardımcı oluyoruz.\nHer sektöre özel çözümlerimizle iş dünyasında fark yaratmayı hedefliyoruz."
+      },
+      "title2": {
+        "title": "Misyonumuz",
+        "subtitle": "“Stratejik Ortak, Güvenilir Rehber”",
+        "description": "İşletmelerin hedeflerine ulaşmaları için gerekli olan stratejik yönlendirmeyi sağlamak ve yenilikçi çözümlerle değer yaratmak en büyük amacımızdır. MVM Business Development Office olarak, her projeye özel bir yaklaşım benimseyerek müşterilerimizle uzun vadeli iş ortaklıkları kuruyoruz."
+      },
+      "title3": {
+        "title": "Vizyonumuz",
+        "subtitle": "“Geleceği Şekillendiren İş Geliştirme Lideri”",
+        "description": "İş dünyasında lider bir danışmanlık firması olarak, müşterilerimizin global pazarda sürdürülebilir başarı elde etmelerini sağlamak en büyük vizyonumuzdur. Teknoloji ve inovasyonu merkeze alan çözümlerimizle sektörümüzde fark yaratmayı hedefliyoruz."
+      },
+      "title4": {
+        "title": "Değerlerimiz",
+        "subtitle": "“Güven, Yenilikçilik ve Sürdürülebilirlik”",
+        "values": {
+          "value1": {
+            "title": "Güven: ",
+            "description": "İş ortaklarımızla kurduğumuz ilişkilerde şeffaflık ve dürüstlüğü ön planda tutarız."
+          },
+          "value2": {
+            "title": "Yenilikçilik: ",
+            "description": "Değişen dünyaya ayak uydurarak, en yeni teknolojileri ve iş modellerini benimseriz."
+          },
+          "value3": {
+            "title": "Sürdürülebilirlik: ",
+            "description": "İş dünyasında kalıcı başarı için uzun vadeli ve sürdürülebilir çözümler üretiriz."
+          }
+        }
+      },
+      "title5": {
+        "title": "Neden Biz?",
+        "subtitle": "“Doğru İş Ortağı ile Fark Yaratın”",
+        "description": "MVM Business Development Office, sektördeki bilgi birikimi ve yenilikçi yaklaşımları sayesinde müşterilerine sadece danışmanlık değil, aynı zamanda sonuç odaklı çözümler sunar.\nBizimle çalışmanın avantajları:",
+        "values": {
+          "value1": {
+            "title": "Deneyimli ve uzman ekip: ",
+            "description": "Her biri alanında tecrübeli profesyonellerden oluşan ekibimizle size özel çözümler sunuyoruz."
+          },
+          "value2": {
+            "title": "Ölçülebilir sonuçlar: ",
+            "description": "İşletmenizin performansını artıracak, somut ve ölçülebilir çözümler sağlıyoruz."
+          },
+          "value3": {
+            "title": "Yenilikçi yaklaşım: ",
+            "description": "Teknolojik gelişmeleri yakından takip ederek iş süreçlerinizi modernize ediyoruz."
+          }
+        }
+      },
+      "title6": {
+        "title": "Ekibimiz",
+        "subtitle": "“Başarının Arkasındaki Güçlü Ekip”",
+        "description": "MVM Business Development Office ekibi; strateji geliştirme, teknoloji yönetimi, proje planlama ve operasyonel süreçlerde uzman profesyonellerden oluşur. Her biri alanında deneyimli olan ekibimiz, işletmenizin ihtiyaçlarına özel çözümler üretir ve büyüme yolculuğunuzda yanınızda olur."
+      },
+      "title7": {
+        "title": "Çözüm Ortaklarımız",
+        "subtitle": "“Güçlü İş Birlikleri ile Daha İleriye”",
+        "description": "Başarıya giden yolda yalnız değiliz! MVM Business Development Office, çeşitli sektörlerdeki güçlü çözüm ortaklarıyla iş birliği yaparak müşterilerine kapsamlı ve entegre hizmetler sunar. Uzun vadeli ortaklıklarımız sayesinde her projede daha geniş bir etki yaratıyoruz."
+      },
+      "title8": {
+        "title": "Sürdürülebilirlik Yaklaşımımız",
+        "subtitle": "“Geleceği Koruyan Çözümler”",
+        "description": "MVM Business Development Office, sürdürülebilirliği iş stratejisinin merkezine koyar. Çevresel ve sosyal sorumluluk bilinciyle hareket ederek, işletmelerin sürdürülebilir büyümesine katkıda bulunuyoruz. İnovasyon ve teknoloji kullanarak çevresel etkileri minimize eden çözümler geliştiriyoruz."
+      }
+    }
+  },
+  "contact": {
+    "address": {
+      "title": "Adres",
+      "line1": "MVM Business Development Office",
+      "line2": "Ankara, 06810",
+      "line3": "Türkiye"
+    },
+    "phone": {
+      "title": "Telefon",
+      "line1": "+90 555 555 55 55"
+    },
+    "email": {
+      "title": "E-posta",
+      "line1": "info@mvm.com"
+    }
+  },
+  "mailService": {
+    "yourName": "Adınız",
+    "yourEmail": "E-posta Adresiniz",
+    "subject": "Konu",
+    "message": "Mesajınız",
+    "submit": "Gönder"
+  }
+}
