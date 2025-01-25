@@ -425,5 +425,8 @@
     "subject": "Konu",
     "message": "Mesajınız",
     "submit": "Gönder"
+  },
+  "footer": {
+    "rights": "Tüm Hakları Saklıdır"
   }
 }
