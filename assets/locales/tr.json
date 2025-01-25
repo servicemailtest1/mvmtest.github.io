@@ -13,7 +13,8 @@
   },
   "language": {
     "tr": "Türkçe",
-    "en": "English"
+    "en": "English",
+    "ch": "中文"
   },
   "hero": {
     "title": {
@@ -71,28 +72,6 @@
         "benefit3": "Yatırım kararlarını daha bilinçli bir şekilde alın.",
         "benefit4": "Müşteri taleplerine uygun ürün ve hizmetler sunarak satışları artırın.",
         "benefit5": "Operasyonel verimliliği artırarak maliyetleri düşürün."
-      },
-      "caseStudies": {
-        "title": "Örnek Çalışmalar",
-        "study1": {
-          "title": "B2B Pazarda Yeni İş Modelleri ile %30 Büyüme",
-          "description": "Müşterimiz, geleneksel satış modelinden çıkarak veri odaklı iş geliştirme yöntemleri ile %30 büyüme sağladı."
-        },
-        "study2": {
-          "title": "Girişimcilere Özel Pazar Analizleri ile Stratejik Planlama",
-          "description": "Start-up müşterilerimize sunduğumuz özel pazar analizleri ile ilk yıl içinde %50 müşteri büyümesi elde edildi."
-        }
-      },
-      "faq": {
-        "title": "Sıkça Sorulan Sorular",
-        "q1": {
-          "question": "Stratejik iş geliştirme süreci ne kadar sürer?",
-          "answer": "Bu süreç işletmenin ihtiyaçlarına göre değişkenlik göstermekle birlikte, genellikle 3 ila 6 ay arasında sürer."
-        },
-        "q2": {
-          "question": "Şirketimiz için hangi stratejinin uygun olduğunu nasıl belirliyorsunuz?",
-          "answer": "Detaylı analizler, rakip araştırmaları ve pazar dinamikleri incelenerek size en uygun stratejiler önerilir."
-        }
       }
     },
     "service2": {
@@ -115,28 +94,6 @@
         "benefit3": "Riskleri önceden belirleyerek olası aksaklıkları minimize edin.",
         "benefit4": "Ekip koordinasyonunu ve iş birliğini güçlendirin.",
         "benefit5": "İş süreçlerinizi optimize ederek müşteri memnuniyetini artırın."
-      },
-      "caseStudies": {
-        "title": "Örnek Çalışmalar",
-        "study1": {
-          "title": "Yazılım Projesinde Agile Yöntemi ile %40 Verimlilik Artışı",
-          "description": "Müşterimiz, proje yönetimi süreçlerine Agile metodolojisini entegre ederek geliştirme sürecini hızlandırdı ve %40 daha verimli hale getirdi."
-        },
-        "study2": {
-          "title": "Kaynak Planlaması ile Zamanında Teslim Edilen İnşaat Projesi",
-          "description": "İnşaat sektöründeki müşterimiz, kapsamlı kaynak planlaması sayesinde projesini planlanan sürede ve bütçede tamamladı."
-        }
-      },
-      "faq": {
-        "title": "Sıkça Sorulan Sorular",
-        "q1": {
-          "question": "Proje yönetimi danışmanlığı süreci nasıl işler?",
-          "answer": "İlk aşamada mevcut süreçlerinizi analiz ediyor, ardından size özel stratejiler geliştirerek uygulama aşamasına geçiyoruz."
-        },
-        "q2": {
-          "question": "Hangi proje yönetim metodolojisini kullanıyorsunuz?",
-          "answer": "İhtiyacınıza uygun olarak Agile, Scrum, Kanban, Waterfall gibi çeşitli metodolojilerden en uygun olanını öneriyoruz."
-        }
       }
     },
     "service3": {
@@ -159,28 +116,6 @@
         "benefit3": "Yapay zeka ve veri analitiği ile daha bilinçli iş kararları alın.",
         "benefit4": "Yeni teknolojilerle müşteri deneyimini iyileştirin.",
         "benefit5": "İnovatif çözümlerle pazardaki konumunuzu güçlendirin."
-      },
-      "caseStudies": {
-        "title": "Örnek Çalışmalar",
-        "study1": {
-          "title": "Makine Öğrenimi ile Üretim Süreçlerinde %35 Verimlilik Artışı",
-          "description": "Bir üretim şirketi, yapay zeka tabanlı analizlerle üretim süreçlerini optimize ederek verimliliğini %35 artırdı."
-        },
-        "study2": {
-          "title": "E-Ticaret Platformunda Veri Analitiği ile Satışların %50 Artışı",
-          "description": "E-ticaret müşterimiz, büyük veri analitiği kullanarak müşteri davranışlarını analiz etti ve satışlarını %50 artırdı."
-        }
-      },
-      "faq": {
-        "title": "Sıkça Sorulan Sorular",
-        "q1": {
-          "question": "İnovasyon ve teknoloji danışmanlığı kimler için uygundur?",
-          "answer": "KOBİ'lerden büyük ölçekli şirketlere kadar her işletme, dijital dönüşüm ve inovasyon süreçlerini hızlandırmak için bu hizmetten faydalanabilir."
-        },
-        "q2": {
-          "question": "Şirketimize uygun en iyi teknolojiyi nasıl belirliyorsunuz?",
-          "answer": "İşletmenizin ihtiyaçlarını analiz ederek, en uygun teknoloji ve dijital dönüşüm stratejilerini belirliyoruz."
-        }
       }
     },
     "service4": {
@@ -203,28 +138,6 @@
         "benefit3": "Hedef kitlenizi daha iyi tanıyarak müşteri memnuniyetini artırın.",
         "benefit4": "Fiyatlandırma ve pazarlama stratejilerinizi optimize ederek kârlılığı artırın.",
         "benefit5": "İşletmenizin uzun vadeli büyüme stratejilerini belirleyin."
-      },
-      "caseStudies": {
-        "title": "Örnek Çalışmalar",
-        "study1": {
-          "title": "Fiyatlandırma Stratejisi ile %20 Gelir Artışı",
-          "description": "Bir perakende müşterimiz, pazar analizi ile fiyatlandırma stratejisini optimize ederek %20 daha fazla gelir elde etti."
-        },
-        "study2": {
-          "title": "Rakip Analizi ile Yeni Pazar Fırsatlarının Keşfi",
-          "description": "Bir teknoloji firması, rakip analizleri sayesinde yeni pazarlara açılarak müşteri portföyünü genişletti."
-        }
-      },
-      "faq": {
-        "title": "Sıkça Sorulan Sorular",
-        "q1": {
-          "question": "Pazar ve rekabet analizi ne kadar sürede tamamlanır?",
-          "answer": "Analiz süresi sektörünüze ve hedeflerinize bağlı olarak değişmekle birlikte, genellikle 4 ila 8 hafta arasında tamamlanmaktadır."
-        },
-        "q2": {
-          "question": "Analiz sonucunda nasıl aksiyon alabiliriz?",
-          "answer": "Size sunduğumuz detaylı raporlar ve stratejik öneriler doğrultusunda iş planınızı optimize edebilir ve rekabet avantajınızı artırabilirsiniz."
-        }
       }
     },
     "service5": {
@@ -247,28 +160,6 @@
         "benefit3": "Şirket değerlemenizi optimize ederek yatırım çekme şansınızı artırın.",
         "benefit4": "Yatırımcı ilişkilerini profesyonelce yöneterek güven oluşturun.",
         "benefit5": "Finansal süreçlerinizi daha verimli hale getirerek sürdürülebilir karlılık sağlayın."
-      },
-      "caseStudies": {
-        "title": "Örnek Çalışmalar",
-        "study1": {
-          "title": "Yatırımcı Bağlantıları ile %50 Sermaye Artışı",
-          "description": "Bir teknoloji girişimi, yatırımcılarla etkili bağlantılar kurarak %50 sermaye artışı sağladı ve büyüme sürecini hızlandırdı."
-        },
-        "study2": {
-          "title": "Stratejik Ortaklık ile Yeni Pazarlara Açılma",
-          "description": "Bir perakende şirketi, doğru ortaklık yönetimi stratejileri ile yurt dışına açılarak müşteri tabanını genişletti."
-        }
-      },
-      "faq": {
-        "title": "Sıkça Sorulan Sorular",
-        "q1": {
-          "question": "Yatırımcı bulma süreci ne kadar sürer?",
-          "answer": "Sektörünüze ve iş modelinize bağlı olarak değişmekle birlikte, genellikle 3 ila 6 ay arasında sürebilir."
-        },
-        "q2": {
-          "question": "Şirket değerlemesi nasıl yapılır?",
-          "answer": "Finansal performans, pazar konumu ve büyüme potansiyeli gibi faktörler analiz edilerek şirketinizin doğru değeri belirlenir."
-        }
       }
     },
     "service6": {
@@ -291,28 +182,6 @@
         "benefit3": "Liderlik ve yönetim becerileri geliştirerek ekiplerinizi daha etkili yönetin.",
         "benefit4": "Teknolojik ve sektörel değişimlere hızla adapte olun.",
         "benefit5": "Bireylerin ve ekiplerin motivasyonunu artırarak iş verimliliğini yükseltin."
-      },
-      "caseStudies": {
-        "title": "Örnek Çalışmalar",
-        "study1": {
-          "title": "Liderlik Eğitimi ile %40 Verimlilik Artışı",
-          "description": "Bir şirket, yöneticilerine yönelik liderlik eğitimleri düzenleyerek ekip içi iletişimi ve verimliliği %40 oranında artırdı."
-        },
-        "study2": {
-          "title": "Teknik Eğitim Programı ile %60 Daha Yüksek Yetkinlik Seviyesi",
-          "description": "Bir teknoloji firması, çalışanlarına yönelik teknik eğitimler sağlayarak yetkinlik seviyelerini %60 oranında yükseltti."
-        }
-      },
-      "faq": {
-        "title": "Sıkça Sorulan Sorular",
-        "q1": {
-          "question": "Eğitim ve mentorluk programları nasıl uygulanıyor?",
-          "answer": "Online veya yüz yüze eğitim seçenekleriyle, ihtiyacınıza uygun şekilde planlanmaktadır."
-        },
-        "q2": {
-          "question": "Kurumsal eğitim programları nasıl tasarlanıyor?",
-          "answer": "İşletmenizin ihtiyaçları analiz edilerek, çalışanlarınıza özel içerikler hazırlanır ve uygulanır."
-        }
       }
     }
   },
@@ -425,8 +294,5 @@
     "subject": "Konu",
     "message": "Mesajınız",
     "submit": "Gönder"
-  },
-  "footer": {
-    "rights": "Tüm Hakları Saklıdır"
   }
 }

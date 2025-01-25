@@ -13,46 +13,51 @@
   },
   "language": {
     "tr": "Turkish",
-    "en": "English"
+    "en": "English",
+    "ch": "中文"
   },
   "hero": {
-    "title": "MVM BUSINESS DEVELOPMENT OFFICE",
-    "subtitle": "Get professional support for your ventures.",
-    "button": "Get Started Now"
+    "title": {
+      "first": "MVM",
+      "second": "Business Development",
+      "third": "Office"
+    },
+    "subtitle": "Access - Communication - Interaction",
+    "button": "Get Started"
   },
   "why": {
     "title": "Why MVM?",
-    "subtitle": "MVM provides all the services you need to grow your business.",
+    "subtitle": "MVM defines itself as a business partner that focuses on business development processes and creates value.",
     "reason1": {
-      "title": "Strong Experience",
+      "title": "Experience",
       "subtitle": "Years of expertise",
-      "description": "Our expert team offers the best solutions to our clients with years of experience and extensive industry knowledge. We create impact with our strategic approach in every project."
+      "description": "Our expertise, built over years and enriched by a broad industry network, enables us to offer the best solutions to our clients."
     },
     "reason2": {
       "title": "Innovative Approach",
       "subtitle": "Technology and innovation-driven solutions",
-      "description": "We contribute to the sustainable growth of businesses by utilizing the latest technologies and innovative approaches in business development processes."
+      "description": "By utilizing the latest technologies and innovative approaches in our business development processes, we contribute to the sustainable growth of businesses."
     },
     "reason3": {
       "title": "Customer-Oriented Service",
-      "subtitle": "Your business partner at every step",
-      "description": "We provide customized solutions for each client, offering services tailored to their needs and goals. We measure success by our partners' satisfaction."
+      "subtitle": "We stand by you as your business partner",
+      "description": "We provide tailored solutions for each client, offering services that align with their needs and goals. We measure success by our partners' satisfaction."
     },
     "reason4": {
-      "title": "Result-Oriented Solutions",
+      "title": "Results-Oriented Solutions",
       "subtitle": "Concrete steps for success",
-      "description": "We not only plan but also provide actionable solutions to help you achieve your goals. We create long-term value with measurable success."
+      "description": "Beyond planning, we offer actionable solutions to help your projects reach their targets, creating long-term value with measurable success."
     }
   },
   "services": {
-    "title": "Our Services",
-    "subtitle": "At MVM Business Development Office, we define ourselves as a value-creating business partner by focusing on innovative solutions and strategic business development processes.",
+    "title": "Our Solutions",
+    "subtitle": "As MVM Business Development Office, we focus on innovative solutions and strategic business development processes, aiming to be a reliable business partner that creates value in our areas of expertise.",
     "service1": {
       "title": "Strategic Business Development",
-      "description": "We provide consultancy on defining strategic goals, market research, and discovering new business opportunities.",
-      "details": "We conduct comprehensive analyses to determine your business's long-term growth strategies and strengthen your market position. We create the most suitable business development models tailored to customer needs and guide you in gaining a competitive advantage.",
+      "description": "We provide consultancy on setting strategic goals, market research, and discovering new business opportunities.",
+      "details": "We conduct comprehensive analyses to determine your company's long-term growth strategies and strengthen your market position. We create the most suitable business development models tailored to customer needs and provide guidance to enhance your competitive advantage.",
       "features": {
-        "title": "Our Services",
+        "title": "Our Solutions",
         "feature1": "Detailed analysis and evaluation of your business model",
         "feature2": "Industry trends and competitive analysis",
         "feature3": "Market research and target audience identification",
@@ -63,130 +68,64 @@
       "benefits": {
         "title": "Benefits",
         "benefit1": "Stay ahead of competitors and aim for market leadership.",
-        "benefit2": "Develop strategies for sustainable business growth.",
-        "benefit3": "Make more informed investment decisions.",
-        "benefit4": "Offer products and services that meet customer demands and increase sales.",
+        "benefit2": "Develop strategies that ensure sustainable growth for your business.",
+        "benefit3": "Make investment decisions more consciously.",
+        "benefit4": "Increase sales by offering products and services that meet customer demands.",
         "benefit5": "Enhance operational efficiency and reduce costs."
-      },
-      "caseStudies": {
-        "title": "Case Studies",
-        "study1": {
-          "title": "30% Growth with New Business Models in B2B Market",
-          "description": "Our client achieved 30% growth by transitioning from a traditional sales model to data-driven business development methods."
-        },
-        "study2": {
-          "title": "Strategic Planning with Market Analyses for Startups",
-          "description": "With customized market analyses for startup clients, a 50% customer growth was achieved within the first year."
-        }
-      },
-      "faq": {
-        "title": "Frequently Asked Questions",
-        "q1": {
-          "question": "How long does the strategic business development process take?",
-          "answer": "This process varies based on the company's needs but generally takes between 3 to 6 months."
-        },
-        "q2": {
-          "question": "How do you determine the best strategy for our company?",
-          "answer": "We conduct detailed analyses, competitor research, and evaluate market dynamics to recommend the best strategies for you."
-        }
       }
     },
     "service2": {
-      "title": "Project Management Consulting",
-      "description": "We offer comprehensive consulting services to ensure the successful planning, management, and completion of your projects.",
-      "details": "We develop effective project management strategies to help your business complete projects on time and within budget. By providing guidance on risk management, resource planning, and process optimization, we enhance the efficiency of your projects.",
+      "title": "Project Management Consultancy",
+      "description": "We provide comprehensive consultancy services for the successful planning, management, and completion of your projects.",
+      "details": "We develop effective project management strategies to ensure your company's projects are completed on time and within budget. We offer guidance on risk management, resource planning, and process optimization to enhance the efficiency of your projects.",
       "features": {
-        "title": "Our Services",
+        "title": "Our Solutions",
         "feature1": "Project planning and roadmap creation",
-        "feature2": "Resource management and task allocation",
-        "feature3": "Risk management and proactive measures against potential issues",
-        "feature4": "Process optimization and efficiency improvement",
+        "feature2": "Resource management and task distribution",
+        "feature3": "Risk management and preventive measures for potential issues",
+        "feature4": "Process optimization and efficiency enhancement",
         "feature5": "Implementation of project management methodologies such as Agile, Scrum, and Kanban",
         "feature6": "Performance measurement and reporting"
       },
       "benefits": {
         "title": "Benefits",
-        "benefit1": "Reduce costs by completing your projects on time and within budget.",
-        "benefit2": "Utilize resources more efficiently to increase productivity.",
+        "benefit1": "Complete your projects on time and within budget, reducing costs.",
+        "benefit2": "Utilize resources more effectively to increase efficiency.",
         "benefit3": "Identify risks in advance and minimize potential disruptions.",
         "benefit4": "Strengthen team coordination and collaboration.",
-        "benefit5": "Optimize business processes to enhance customer satisfaction."
-      },
-      "caseStudies": {
-        "title": "Case Studies",
-        "study1": {
-          "title": "40% Efficiency Increase with Agile Methodology in a Software Project",
-          "description": "Our client integrated Agile methodology into their project management processes, accelerating development and improving efficiency by 40%."
-        },
-        "study2": {
-          "title": "On-Time Completion of a Construction Project with Effective Resource Planning",
-          "description": "Our client in the construction industry successfully completed their project within the planned timeframe and budget through comprehensive resource planning."
-        }
-      },
-      "faq": {
-        "title": "Frequently Asked Questions",
-        "q1": {
-          "question": "How does the project management consulting process work?",
-          "answer": "We start by analyzing your existing processes, then develop customized strategies for you and proceed with implementation."
-        },
-        "q2": {
-          "question": "Which project management methodology do you use?",
-          "answer": "We recommend the most suitable methodology for your needs, such as Agile, Scrum, Kanban, or Waterfall."
-        }
+        "benefit5": "Optimize business processes and improve customer satisfaction."
       }
     },
     "service3": {
-      "title": "Innovation and Technology Consulting",
-      "description": "We offer innovation and technology consulting services to accelerate your company's digital transformation and gain a competitive advantage.",
-      "details": "We help you discover new technologies, digitize your business processes, and develop innovation-focused solutions. We take your business into the future with data analytics, artificial intelligence, automation, and other advanced technologies.",
+      "title": "Innovation and Technology Consultancy",
+      "description": "We offer innovation and technology consultancy services to accelerate your company’s digital transformation and gain a competitive advantage.",
+      "details": "We help you explore new technologies, digitize your business processes, and develop innovation-focused solutions. We integrate advanced technologies such as data analytics, artificial intelligence, and automation to prepare your business for the future.",
       "features": {
-        "title": "Our Services",
+        "title": "Our Solutions",
         "feature1": "Development of digital transformation strategies",
         "feature2": "Artificial intelligence and machine learning applications",
         "feature3": "Data analytics and big data solutions",
-        "feature4": "Integration of Blockchain, IoT, and other next-generation technologies",
+        "feature4": "Integration of new-generation technologies such as Blockchain and IoT",
         "feature5": "Cybersecurity strategies and risk analysis",
-        "feature6": "Automation solutions and digitalization of business processes"
+        "feature6": "Automation solutions and digitization of business processes"
       },
       "benefits": {
         "title": "Benefits",
-        "benefit1": "Optimize your business processes to increase efficiency.",
-        "benefit2": "Reduce costs and gain a competitive advantage through digitalization.",
+        "benefit1": "Optimize business processes to improve efficiency.",
+        "benefit2": "Reduce costs and gain a competitive edge through digitalization.",
         "benefit3": "Make more informed business decisions with artificial intelligence and data analytics.",
-        "benefit4": "Improve customer experience with new technologies.",
+        "benefit4": "Enhance customer experience with new technologies.",
         "benefit5": "Strengthen your market position with innovative solutions."
-      },
-      "caseStudies": {
-        "title": "Case Studies",
-        "study1": {
-          "title": "35% Efficiency Increase in Production Processes with Machine Learning",
-          "description": "A manufacturing company optimized its production processes with AI-based analytics, increasing efficiency by 35%."
-        },
-        "study2": {
-          "title": "50% Increase in Sales with Data Analytics in an E-Commerce Platform",
-          "description": "Our e-commerce client analyzed customer behavior using big data analytics and increased sales by 50%."
-        }
-      },
-      "faq": {
-        "title": "Frequently Asked Questions",
-        "q1": {
-          "question": "Who can benefit from innovation and technology consulting?",
-          "answer": "Businesses of all sizes, from SMEs to large enterprises, can benefit from this service to accelerate digital transformation and innovation processes."
-        },
-        "q2": {
-          "question": "How do you determine the best technology for our company?",
-          "answer": "We analyze your business needs to identify the most suitable technology and digital transformation strategies."
-        }
       }
     },
     "service4": {
       "title": "Market and Competitive Analysis",
-      "description": "We offer comprehensive market and competitive analysis services to determine your company's market position, analyze competitors, and gain a strategic advantage.",
-      "details": "We analyze market trends and competitors in detail to optimize your business strategies. We help you understand customer expectations, discover opportunities, and gain a sustainable competitive advantage.",
+      "description": "We provide comprehensive market and competitive analysis services to define your company’s market position, analyze competitors, and gain a strategic advantage.",
+      "details": "We conduct in-depth analysis of market trends and competitors to optimize your business strategies. We help you understand customer expectations, identify opportunities, and achieve a sustainable competitive advantage in the market.",
       "features": {
-        "title": "Our Services",
+        "title": "Our Solutions",
         "feature1": "Market trends and growth analysis",
-        "feature2": "Identification of competitors' strengths and weaknesses",
+        "feature2": "Identification of competitors’ strengths and weaknesses",
         "feature3": "Target audience and customer segmentation",
         "feature4": "Pricing strategies and market positioning",
         "feature5": "SWOT, PESTEL, and Porter’s Five Forces Analysis",
@@ -194,146 +133,80 @@
       },
       "benefits": {
         "title": "Benefits",
-        "benefit1": "Make strategic decisions by better understanding market opportunities.",
-        "benefit2": "Gain a strong competitive advantage by analyzing competitors' strategies.",
-        "benefit3": "Understand your target audience better and increase customer satisfaction.",
-        "benefit4": "Optimize pricing and marketing strategies to maximize profitability.",
+        "benefit1": "Gain a better understanding of market opportunities for strategic decisions.",
+        "benefit2": "Analyze competitors’ strategies and gain a strong competitive advantage.",
+        "benefit3": "Enhance customer satisfaction by understanding your target audience better.",
+        "benefit4": "Optimize pricing and marketing strategies to increase profitability.",
         "benefit5": "Define long-term growth strategies for your business."
-      },
-      "caseStudies": {
-        "title": "Case Studies",
-        "study1": {
-          "title": "20% Revenue Increase with Pricing Strategy",
-          "description": "A retail client optimized its pricing strategy through market analysis and achieved a 20% revenue increase."
-        },
-        "study2": {
-          "title": "Discovering New Market Opportunities with Competitive Analysis",
-          "description": "A technology company expanded into new markets and grew its customer base through competitor analysis."
-        }
-      },
-      "faq": {
-        "title": "Frequently Asked Questions",
-        "q1": {
-          "question": "How long does market and competitive analysis take?",
-          "answer": "The duration varies depending on your industry and objectives, but it typically takes between 4 to 8 weeks."
-        },
-        "q2": {
-          "question": "How can we take action based on the analysis results?",
-          "answer": "With our detailed reports and strategic recommendations, you can optimize your business plan and enhance your competitive advantage."
-        }
       }
     },
     "service5": {
       "title": "Investment and Partnership Management",
-      "description": "We manage investment processes and offer strategic partnership opportunities to support your company's growth and sustainable financial success.",
-      "details": "We develop investment strategies to support your company's financial growth and help you establish effective communication with investors. Additionally, we optimize partnership management processes to maximize the benefits of collaborations.",
+      "description": "We manage investment processes and offer strategic partnership opportunities to support your business growth and ensure sustainable financial success.",
+      "details": "We develop investment strategies to support your company’s financial growth and help you establish effective communication with investors. Additionally, we optimize partnership management processes to maximize the efficiency of your collaborations.",
       "features": {
-        "title": "Our Services",
+        "title": "Our Solutions",
         "feature1": "Development of investment strategies",
         "feature2": "Connecting with potential investors",
         "feature3": "Analysis and management of partnership models",
         "feature4": "Company valuation and financial analysis services",
-        "feature5": "Tracking of share transfers and investment processes",
+        "feature5": "Tracking share transfers and investment processes",
         "feature6": "Negotiation and contract management"
       },
       "benefits": {
         "title": "Benefits",
         "benefit1": "Accelerate your business growth with the right investment strategies.",
-        "benefit2": "Expand your business by establishing strong partnerships.",
+        "benefit2": "Expand your business volume by establishing strong partnerships.",
         "benefit3": "Optimize your company valuation to increase investment opportunities.",
-        "benefit4": "Professionally manage investor relations to build trust.",
-        "benefit5": "Enhance financial processes to ensure sustainable profitability."
-      },
-      "caseStudies": {
-        "title": "Case Studies",
-        "study1": {
-          "title": "50% Capital Increase with Investor Connections",
-          "description": "A tech startup secured a 50% capital increase by establishing effective connections with investors, accelerating its growth."
-        },
-        "study2": {
-          "title": "Expanding into New Markets with Strategic Partnerships",
-          "description": "A retail company expanded internationally and grew its customer base through well-managed partnership strategies."
-        }
-      },
-      "faq": {
-        "title": "Frequently Asked Questions",
-        "q1": {
-          "question": "How long does it take to find investors?",
-          "answer": "The duration varies depending on your industry and business model, but it typically takes between 3 to 6 months."
-        },
-        "q2": {
-          "question": "How is company valuation conducted?",
-          "answer": "Company valuation is determined through an analysis of financial performance, market position, and growth potential."
-        }
+        "benefit4": "Manage investor relations professionally to build trust.",
+        "benefit5": "Enhance financial processes for sustainable profitability."
       }
     },
     "service6": {
-      "title": "Training and Mentorship",
-      "description": "We offer training programs and mentorship services to support the professional development of individuals and businesses.",
-      "details": "With our expert trainers and mentors, we help employees and managers enhance their skills and succeed in the business world. Our customized training content allows individuals and teams to advance their careers.",
+      "title": "Project Partnership and Matching Center",
+      "description": "",
+      "details": "Developing projects to attract investment is crucial for achieving a country's economic growth and development goals. Beyond being the driving force of economic growth, it has positive effects in many areas, from technology transfer to social welfare, from employment to increasing international competitiveness. Therefore, we work on developing joint projects and matching relevant parties.",
       "features": {
-        "title": "Our Services",
+        "title": "Our Solutions",
         "feature1": "Leadership and management skills training",
         "feature2": "Innovation and creativity workshops",
-        "feature3": "Technical and professional skill development programs",
+        "feature3": "Technical and professional skills development training",
         "feature4": "Entrepreneurship and business development mentorship programs",
-        "feature5": "Career coaching and personal development support",
+        "feature5": "Career counseling and personal development support",
         "feature6": "Design and implementation of corporate training programs"
       },
       "benefits": {
         "title": "Benefits",
-        "benefit1": "Enhance employee skills to improve job performance.",
-        "benefit2": "Encourage corporate innovation and gain a competitive advantage.",
-        "benefit3": "Develop leadership and management skills for more effective team management.",
-        "benefit4": "Quickly adapt to technological and industry changes.",
-        "benefit5": "Boost motivation among individuals and teams to increase productivity."
-      },
-      "caseStudies": {
-        "title": "Case Studies",
-        "study1": {
-          "title": "40% Efficiency Increase with Leadership Training",
-          "description": "A company improved internal communication and efficiency by 40% through leadership training for managers."
-        },
-        "study2": {
-          "title": "60% Higher Competency Levels with Technical Training Program",
-          "description": "A technology firm provided specialized technical training to employees, increasing competency levels by 60%."
-        }
-      },
-      "faq": {
-        "title": "Frequently Asked Questions",
-        "q1": {
-          "question": "How are training and mentorship programs implemented?",
-          "answer": "Programs are designed based on your needs and can be conducted online or in person."
-        },
-        "q2": {
-          "question": "How are corporate training programs designed?",
-          "answer": "We analyze your company's needs and develop customized training content for employees."
-        }
+        "benefit1": "Enhance your employees' competencies to improve job performance.",
+        "benefit2": "Encourage internal innovation to gain a competitive advantage.",
+        "benefit3": "Develop leadership and management skills to manage your teams more effectively.",
+        "benefit4": "Adapt quickly to technological and industry changes.",
+        "benefit5": "Increase motivation among individuals and teams to boost overall productivity."
       }
     }
   },
   "callToAction": {
     "title": "Start Growing Your Business Now!",
-    "subtitle": "We are here to accelerate your business growth and provide innovative solutions for a competitive advantage. We offer effective solutions to achieve strategic goals with our business partners.",
-    "button": "Contact Now"
+    "subtitle": "We are here to accelerate your business growth and provide a competitive advantage with innovative solutions. Together with our partners, we offer effective solutions to achieve strategic goals.",
+    "button": "Contact Us Now"
   },
   "about": {
-    "title": "About Us",
+    "title": "Corporate",
     "subtitles": {
       "title1": {
-        "title": "Who We Are",
+        "title": "About Us",
         "subtitle": "“Growing Your Business with Innovative Solutions”",
-        "description": "MVM Business Development Office specializes in strategic business development, innovation management, and technology integration to ensure the sustainable growth of businesses."
+        "description": "MVM Business Development Office is a consulting firm specializing in strategic business development, innovation management, and technology integration to ensure sustainable growth for businesses. With our experienced team, we provide value-driven solutions to our partners and help them enhance their competitive advantage.\nWe aim to make a difference in the business world with our sector-specific solutions."
       },
       "title2": {
         "title": "Our Mission",
-        "subtitle": "“Strategic Partner, Reliable Guide”",
-        "description": "Our main goal is to provide the necessary strategic guidance for businesses to achieve their goals and create value through innovative solutions."
+        "subtitle": "“Strategic Partner, Trusted Guide”",
+        "description": "Our primary goal is to provide the strategic guidance businesses need to achieve their goals and create value through innovative solutions. As MVM Business Development Office, we adopt a tailored approach for each project and establish long-term partnerships with our clients."
       },
       "title3": {
         "title": "Our Vision",
         "subtitle": "“A Business Development Leader Shaping the Future”",
-        "description": "As a leading consulting firm in the business world, our biggest vision is to help our clients achieve sustainable success in global markets."
+        "description": "As a leading consulting firm in the business world, our greatest vision is to ensure our clients achieve sustainable success in the global market. We aim to make a difference in our industry with solutions centered on technology and innovation."
       },
       "title4": {
         "title": "Our Values",
@@ -345,7 +218,7 @@
           },
           "value2": {
             "title": "Innovation: ",
-            "description": "We adapt to the changing world by embracing the latest technologies and business models."
+            "description": "We embrace the latest technologies and business models to keep up with a changing world."
           },
           "value3": {
             "title": "Sustainability: ",
@@ -356,53 +229,63 @@
       "title5": {
         "title": "Why Us?",
         "subtitle": "“Make a Difference with the Right Business Partner”",
-        "description": "MVM Business Development Office provides not only consulting but also results-oriented solutions to its clients, thanks to its industry expertise and innovative approaches.\nThe advantages of working with us:",
+        "description": "MVM Business Development Office not only provides consultancy but also delivers result-oriented solutions to its clients with its industry expertise and innovative approaches.\nThe advantages of working with us:",
         "values": {
           "value1": {
             "title": "Experienced and expert team: ",
-            "description": "Our team consists of professionals with extensive expertise in their fields, offering tailored solutions for you."
+            "description": "We offer tailored solutions with our team of professionals, each experienced in their respective fields."
           },
           "value2": {
             "title": "Measurable results: ",
-            "description": "We provide concrete and measurable solutions that enhance your business performance."
+            "description": "We provide concrete and measurable solutions to enhance your business performance."
           },
           "value3": {
             "title": "Innovative approach: ",
-            "description": "We keep up with technological advancements to modernize your business processes."
+            "description": "We closely follow technological advancements to modernize your business processes."
           }
         }
       },
       "title6": {
         "title": "Our Team",
         "subtitle": "“The Strong Team Behind Success”",
-        "description": "The MVM Business Development Office team consists of professionals specializing in strategy development, technology management, project planning, and operational processes. Our experienced team provides tailored solutions for your business needs and supports you throughout your growth journey."
+        "description": "The MVM Business Development Office team consists of expert professionals in strategy development, technology management, project planning, and operational processes. Each team member is highly experienced in their field, providing tailored solutions for your business needs and supporting you on your growth journey."
       },
       "title7": {
         "title": "Our Solution Partners",
-        "subtitle": "“Moving Forward with Strong Partnerships”",
-        "description": "We are not alone on the road to success! MVM Business Development Office collaborates with strong solution partners across various industries to offer comprehensive and integrated services to its clients. Thanks to our long-term partnerships, we create a broader impact in every project."
+        "subtitle": "“Advancing Further with Strong Partnerships”",
+        "description": "We are not alone on the road to success! MVM Business Development Office collaborates with strong solution partners from various industries to provide comprehensive and integrated services to its clients. Through long-term partnerships, we create a broader impact in every project."
       },
       "title8": {
         "title": "Our Sustainability Approach",
         "subtitle": "“Solutions That Protect the Future”",
-        "description": "MVM Business Development Office places sustainability at the core of its business strategy. We act with environmental and social responsibility awareness, contributing to the sustainable growth of businesses. We develop solutions that minimize environmental impact through innovation and technology."
+        "description": "MVM Business Development Office places sustainability at the core of its business strategy. With an awareness of environmental and social responsibility, we contribute to the sustainable growth of businesses. By leveraging innovation and technology, we develop solutions that minimize environmental impact."
       }
     }
   },
   "contact": {
     "address": {
       "title": "Address",
-      "line1": "MVM Business Development Office",
-      "line2": "Ankara, 06810",
-      "line3": "Turkey"
+      "line1": "MVM Business Development Consultancy",
+      "line2": "Domestic and International Trade Ltd. Co.",
+      "line3": "Ehlibeyt Nbd. Tekstilciler St.",
+      "line4": "Yapım İş Merkezi No: 35/7",
+      "line5": "06520 Çankaya / Ankara",
+      "line6": "Turkey"
+    },
+    "address2": {
+      "title": "Office",
+      "line1": "Sancak Nbd. 526. St.",
+      "line2": "Vadi Apt. No: 2/5",
+      "line3": "06550 Çankaya / Ankara",
+      "line4": "Turkey"
     },
     "phone": {
       "title": "Phone",
-      "line1": "+90 555 555 55 55"
+      "line1": "+90 532 794 42 72"
     },
     "email": {
       "title": "Email",
-      "line1": "info@mvm.com"
+      "line1": "info@mvmbusiness.com.tr"
     }
   },
   "mailService": {
@@ -410,6 +293,6 @@
     "yourEmail": "Your Email Address",
     "subject": "Subject",
     "message": "Your Message",
-    "submit": "Submit"
+    "submit": "Send"
   }
 }

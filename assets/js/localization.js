@@ -17,7 +17,7 @@ window.addEventListener('load', function () {
 
 
     // Desteklenmeyen bir dil kodu geldiyse varsayılan olarak 'tr' kullan
-    if (!['tr', 'en'].includes(initialLanguage)) {
+    if (!['tr', 'en', 'ch'].includes(initialLanguage)) {
         initialLanguage = 'tr';
         localStorage.setItem('language', initialLanguage);
     }
@@ -25,15 +25,17 @@ window.addEventListener('load', function () {
     // JSON dosyalarını fetch ile yükle
     Promise.all([
         fetch(localizationPath + 'tr.json').then(res => res.json()),
-        fetch(localizationPath + 'en.json').then(res => res.json())
-    ]).then(([tr, en]) => {
+        fetch(localizationPath + 'en.json').then(res => res.json()),
+        fetch(localizationPath + 'ch.json').then(res => res.json())
+    ]).then(([tr, en, ch]) => {
         // i18next'i başlat
         i18next.init({
             lng: initialLanguage, // Başlangıç dili
             debug: true,
             resources: {
                 en: { translation: en },
-                tr: { translation: tr }
+                tr: { translation: tr },
+                ch: { translation: ch }
             }
         }, function (err, t) {
             if (err) {
@@ -80,6 +82,9 @@ function updateFlag() {
     } else if (currentLanguage === 'tr') {
         selectedFlag.src = assetsPath + 'img/flags/turkey.svg';
         selectedFlag.alt = 'Türkçe';
+    } else if (currentLanguage === 'ch') {
+        selectedFlag.src = assetsPath + 'img/flags/china.svg';
+        selectedFlag.alt = '中文';
     }
 }
 
