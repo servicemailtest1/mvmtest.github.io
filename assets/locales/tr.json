@@ -16,17 +16,21 @@
     "en": "English"
   },
   "hero": {
-    "title": "MVM İŞ GELİŞTİRME OFİSİ",
+    "title": {
+      "first": "MVM",
+      "second": "İş Geliştirme",
+      "third": "Ofisi"
+    },
     "subtitle": "Erişim - İletişim - Etkileşim",
     "button": "Hemen Başlayın"
   },
   "why": {
     "title": "Neden MVM?",
-    "subtitle": "MVM, işletmenizin büyümesi için ihtiyacınız olan tüm hizmetleri sunar.",
+    "subtitle": "MVM, kendisini; iş geliştirme süreçlerini merkeze alan ve değer üreten bir iş arkadaşı olarak tanımlıyor.",
     "reason1": {
-      "title": "Güçlü Deneyim",
+      "title": "Deneyim",
       "subtitle": "Yıllara dayanan birikim",
-      "description": "Uzman ekibimiz, yılların getirdiği deneyim ve geniş sektör bilgisi ile müşterilerimize en iyi çözümleri sunmaktadır. Her projede stratejik yaklaşımımızla fark yaratıyoruz."
+      "description": "Uzmanlığımız, yılların getirdiği birikim ve geniş sektör hinterlandı ile müşterilemize en iyi çözümleri sunmaktır."
     },
     "reason2": {
       "title": "Yenilikçi Yaklaşım",
@@ -45,14 +49,14 @@
     }
   },
   "services": {
-    "title": "Hizmetlerimiz",
+    "title": "Çözümlerimiz",
     "subtitle": "MVM İş Geliştirme Ofisi olarak; yenilikçi çözümler ve stratejik iş geliştirme süreçlerini merkeze alarak, uzmanlık alanlarımızda değer yaratan bir iş ortağı olarak kendimizi tanımlıyoruz.",
     "service1": {
       "title": "Stratejik İş Geliştirme",
       "description": "Stratejik hedeflerin belirlenmesi, pazar araştırması ve yeni iş fırsatlarının keşfedilmesi konusunda danışmanlık sağlıyoruz.",
       "details": "İşletmenizin uzun vadeli büyüme stratejilerini belirlemek ve pazardaki konumunuzu güçlendirmek için kapsamlı analizler yapıyoruz. Müşteri ihtiyaçlarına yönelik en uygun iş geliştirme modellerini oluşturuyor ve rekabet avantajınızı artırmak için rehberlik sağlıyoruz.",
       "features": {
-        "title": "Hizmetlerimiz",
+        "title": "Çözümlerimiz",
         "feature1": "İş modelinizin detaylı analizi ve değerlendirilmesi",
         "feature2": "Sektör trendleri ve rekabet analizleri",
         "feature3": "Pazar araştırmaları ve hedef kitle belirleme",
@@ -96,7 +100,7 @@
       "description": "Projelerinizin başarılı bir şekilde planlanması, yönetilmesi ve tamamlanması için kapsamlı danışmanlık hizmetleri sunuyoruz.",
       "details": "İşletmenizin projelerini zamanında ve bütçe dahilinde tamamlamasını sağlamak için etkili proje yönetimi stratejileri geliştiriyoruz. Risk yönetimi, kaynak planlaması ve süreç optimizasyonu konularında rehberlik ederek projelerinizin verimliliğini artırıyoruz.",
       "features": {
-        "title": "Hizmetlerimiz",
+        "title": "Çözümlerimiz",
         "feature1": "Proje planlama ve yol haritası oluşturma",
         "feature2": "Kaynak yönetimi ve görev dağılımı",
         "feature3": "Risk yönetimi ve olası sorunlara karşı önlemler",
@@ -140,7 +144,7 @@
       "description": "İşletmenizin dijital dönüşümünü hızlandırmak ve rekabet avantajı sağlamak için inovasyon ve teknoloji danışmanlığı hizmetleri sunuyoruz.",
       "details": "Yeni teknolojileri keşfetmenize, iş süreçlerinizi dijitalleştirmenize ve inovasyon odaklı çözümler geliştirmenize yardımcı oluyoruz. Veri analitiği, yapay zeka, otomasyon ve diğer ileri teknolojilerle işletmenizi geleceğe taşıyoruz.",
       "features": {
-        "title": "Hizmetlerimiz",
+        "title": "Çözümlerimiz",
         "feature1": "Dijital dönüşüm stratejilerinin oluşturulması",
         "feature2": "Yapay zeka ve makine öğrenimi uygulamaları",
         "feature3": "Veri analitiği ve büyük veri çözümleri",
@@ -184,7 +188,7 @@
       "description": "İşletmenizin pazardaki konumunu belirlemek, rakiplerinizi analiz etmek ve stratejik avantaj elde etmek için kapsamlı pazar ve rekabet analizi hizmetleri sunuyoruz.",
       "details": "Pazar trendlerini ve rakiplerinizi detaylı bir şekilde analiz ederek iş stratejilerinizi optimize ediyoruz. Müşteri beklentilerini anlamanıza, fırsatları keşfetmenize ve pazarda sürdürülebilir bir rekabet avantajı elde etmenize yardımcı oluyoruz.",
       "features": {
-        "title": "Hizmetlerimiz",
+        "title": "Çözümlerimiz",
         "feature1": "Pazar trendleri ve büyüme analizleri",
         "feature2": "Rakiplerin güçlü ve zayıf yönlerinin belirlenmesi",
         "feature3": "Hedef kitle ve müşteri segmentasyonu",
@@ -228,7 +232,7 @@
       "description": "İşletmenizin büyümesi ve sürdürülebilir finansal başarısı için yatırım süreçlerini yönetiyor ve stratejik ortaklık fırsatları sunuyoruz.",
       "details": "Şirketinizin finansal büyümesini desteklemek için yatırım stratejileri geliştiriyor, yatırımcılarla etkili iletişim kurmanıza yardımcı oluyoruz. Ayrıca, ortaklık yönetimi süreçlerini optimize ederek iş birliklerinden en yüksek verimi almanızı sağlıyoruz.",
       "features": {
-        "title": "Hizmetlerimiz",
+        "title": "Çözümlerimiz",
         "feature1": "Yatırım stratejilerinin oluşturulması",
         "feature2": "Potansiyel yatırımcılarla bağlantı kurulması",
         "feature3": "Ortaklık modellerinin analizi ve yönetimi",
@@ -272,7 +276,7 @@
       "description": "Bireylerin ve işletmelerin profesyonel gelişimlerini desteklemek için eğitim programları ve mentorluk hizmetleri sunuyoruz.",
       "details": "Alanında uzman eğitmenlerimiz ve mentorlarımızla, çalışanlarınızın ve yöneticilerinizin yetkinliklerini artırarak iş dünyasında daha başarılı olmalarına yardımcı oluyoruz. Özelleştirilmiş eğitim içerikleriyle bireylerin ve ekiplerin kariyerlerini ileriye taşımalarını sağlıyoruz.",
       "features": {
-        "title": "Hizmetlerimiz",
+        "title": "Çözümlerimiz",
         "feature1": "Liderlik ve yönetim becerileri eğitimleri",
         "feature2": "İnovasyon ve yaratıcılık atölyeleri",
         "feature3": "Teknik ve mesleki beceri geliştirme eğitimleri",
