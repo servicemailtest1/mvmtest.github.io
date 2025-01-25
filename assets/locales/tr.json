@@ -403,6 +403,13 @@
       "line5": "06520 Çankaya / Ankara",
       "line6": "Türkiye"
     },
+    "address2": {
+      "title": "Ofis",
+      "line1": "Sancak Mah. 526. Cad.",
+      "line2": "Vadi Apt. No: 2/5",
+      "line3": "06550 Çankaya / Ankara",
+      "line4": "Türkiye"
+    },
     "phone": {
       "title": "Telefon",
       "line1": "+90 532 794 42 72"
