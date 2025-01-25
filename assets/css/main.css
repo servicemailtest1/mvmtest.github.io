@@ -2564,7 +2564,8 @@ section,
 }
 
 .logo img {
-  width: 120px; /* İstediğiniz genişliği belirleyin */
+  margin-left: -70px;
+  width: 250px; /* İstediğiniz genişliği belirleyin */
   height: auto; /* Yüksekliği orantılı olarak ayarlar */
 }
 

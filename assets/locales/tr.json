@@ -397,19 +397,19 @@
     "address": {
       "title": "Adres",
       "line1": "MVM İş Geliştirme Danışmanlık",
-      "line2": "İç ve Dış Ticaret LTD. ŞTİ.",
-      "line3": "Ehlibeyt Mahaleesi, Tekstilciler Caddesi",
+      "line2": "İç ve Dış Ticaret Ltd. Şti.",
+      "line3": "Ehlibeyt Mh., Tekstilciler Cd.",
       "line4": "Yapım İş Merkezi No: 35/7",
-      "line5": "Çankaya",
-      "line6": "Ankara 06520, Türkiye"
+      "line5": "06520 Çankaya / Ankara",
+      "line6": "Türkiye"
     },
     "phone": {
       "title": "Telefon",
-      "line1": "+90 555 555 55 55"
+      "line1": "+90 532 794 42 72"
     },
     "email": {
       "title": "E-posta",
-      "line1": "info@mvm.com"
+      "line1": "info@mvmbusiness.com.tr"
     }
   },
   "mailService": {
