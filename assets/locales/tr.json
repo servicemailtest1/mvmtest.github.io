@@ -50,7 +50,7 @@
   },
   "services": {
     "title": "Çözümlerimiz",
-    "subtitle": "MVM İş Geliştirme Ofisi olarak; yenilikçi çözümler ve stratejik iş geliştirme süreçlerini merkeze alarak, uzmanlık alanlarımızda değer yaratan bir iş ortağı olarak kendimizi tanımlıyoruz.",
+    "subtitle": "MVM İş Geliştirme Ofisi olarak, yenilikçi çözümler ve stratejik iş geliştirme süreçlerini odağımıza alıyor, uzmanlık alanlarımızda değer yaratan güvenilir bir iş ortağı olmayı hedefliyoruz.",
     "service1": {
       "title": "Stratejik İş Geliştirme",
       "description": "Stratejik hedeflerin belirlenmesi, pazar araştırması ve yeni iş fırsatlarının keşfedilmesi konusunda danışmanlık sağlıyoruz.",
@@ -396,9 +396,12 @@
   "contact": {
     "address": {
       "title": "Adres",
-      "line1": "MVM İş Geliştirme Ofisi",
-      "line2": "Ankara, 06810",
-      "line3": "Türkiye"
+      "line1": "MVM İş Geliştirme Danışmanlık",
+      "line2": "İç ve Dış Ticaret LTD. ŞTİ.",
+      "line3": "Ehlibeyt Mahaleesi, Tekstilciler Caddesi",
+      "line4": "Yapım İş Merkezi No: 35/7",
+      "line5": "Çankaya",
+      "line6": "Ankara 06520, Türkiye"
     },
     "phone": {
       "title": "Telefon",
