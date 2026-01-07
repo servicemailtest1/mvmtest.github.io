@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>Mesajınız Alındı - MVM Business Development Office</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <link href="assets/css/main.css" rel="stylesheet">
+
+  <script src="https://unpkg.com/i18next@21.9.0/i18next.min.js"></script>
+  <script src="assets/js/localization.js"></script>
+
+  <style>
+    .success-icon {
+      font-size: 80px;
+      color: #198754; /* Bootstrap success green */
+      margin-bottom: 20px;
+    }
+    .success-content {
+        padding: 60px 0;
+        text-align: center;
+    }
+  </style>
+
+</head>
+
+<body class="contact-page">
+
+  <header id="header" class="header d-flex align-items-center fixed-top">
+    <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
+
+      <a href="index.html" class="logo d-flex align-items-center">
+         <img src="assets/img/logo_bg.png" alt="">
+        <h1 class="sitename"></h1>
+      </a>
+
+      <nav id="navmenu" class="navmenu">
+        <ul>
+          <li><a href="index.html" data-i18n="nav.home"></a></li>
+          <li><a href="about.html" data-i18n="nav.about"></a></li>
+          <li><a href="services.html" data-i18n="nav.services"></a></li>
+          <li><a href="contact.html" class="active" data-i18n="nav.contact"></a></li>
+          <li class="language-selector">
+            <button id="languageButton" onclick="toggleLanguageDropdown()">
+              <img src="assets/img/flags/turkey.svg" alt="Dil Seç" id="selectedFlag">
+            </button>
+            <ul id="languageDropdown" class="language-dropdown">
+              <li>
+                <a href="#" onclick="changeLanguage('tr')">
+                  <img src="assets/img/flags/turkey.svg" alt="Türkçe"> <span data-i18n="language.tr">Türkçe</span>
+                </a>
+              </li>
+              <li>
+                <a href="#" onclick="changeLanguage('en')">
+                  <img src="assets/img/flags/united-kingdom.svg" alt="English"> <span data-i18n="language.en">English</span>
+                </a>
+              </li>
+              <li>
+                <a href="#" onclick="changeLanguage('ch')">
+                  <img src="assets/img/flags/china.svg" alt="Chinese"> <span data-i18n="language.ch">Chinese</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main">
+
+    <div class="page-title dark-background" data-aos="fade" style="background-image: url(assets/img/contact-page-title-bg.jpg);">
+      <div class="container">
+        <h1>Teşekkürler / Thank You</h1>
+        <nav class="breadcrumbs">
+          <ol>
+            <li><a href="index.html" data-i18n="nav.home">Home</a></li>
+            <li class="current">Success</li>
+          </ol>
+        </nav>
+      </div>
+    </div><section id="contact" class="contact section">
+      <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
+        <div class="row justify-content-center">
+            
+          <div class="col-lg-8 success-content">
+            <i class="bi bi-check-circle-fill success-icon"></i>
+            
+            <h2 class="mb-3">Mesajınız Başarıyla Gönderildi!</h2>
+            <h4 class="text-muted mb-4">Message Sent Successfully!</h4>
+            
+            <p class="mb-5">
+              İletişim formunuz tarafımıza ulaşmıştır. En kısa sürede sizinle iletişime geçeceğiz.<br>
+              <small class="text-muted">We have received your message. We will contact you as soon as possible.</small>
+            </p>
+            
+            <a href="index.html" class="btn-get-started" style="background: var(--accent-color);
